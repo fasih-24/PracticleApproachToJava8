@@ -5,6 +5,6 @@ public class ImperativeProg {
   privatr String name;
 
   public String compareEmpName(){
-    return "";
+    return " ";
 
 }
