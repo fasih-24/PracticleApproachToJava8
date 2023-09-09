@@ -6,7 +6,6 @@ private int id;
   private String name;
 
   public String compareEmpName() {
-
     return "";
   }
 }
