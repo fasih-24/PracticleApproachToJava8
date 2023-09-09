@@ -1,15 +1,13 @@
 package com.fz.java.fundamentals;
 
-public class ImperativeProg {
+public class Employee {
   private int id;
-  privatr String name;
-
-  public String compareEmpName(){
-    return " ";
-
   private String name;
 
   public String compareEmpName() {
+    return " ";
+  }
+  public String compareEmpBySal() {
     return "";
   }
 }
